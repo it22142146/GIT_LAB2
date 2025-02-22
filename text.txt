@@ -1,1 +1,9 @@
-sdasf
+
+
+-u is used when git push and git branch push
+
+example:- git push -u origin <branch name>
+git  branch -u origin/<branch name>
+
+-m is declared as message 
+it is used to commit
